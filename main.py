@@ -1,3 +1,5 @@
-a = 5
-b = 3
+a = int(input())
+b = int(input())
+print(f"a: {a}")
+print(f"b: {b}")
 print(f"a + b = {a+b}")
